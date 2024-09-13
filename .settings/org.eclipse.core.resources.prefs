@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/admin/MuonTraCT.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/QuanLySach.jsp=UTF-8
+<<<<<<< HEAD
+encoding//src/main/webapp/WEB-INF/views/admin/quanLyTheLoai.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/shared/footer.jsp=UTF-8
+=======
+>>>>>>> 6aefcd3318151f898e444fc70338b81c18b7642e
+encoding//src/main/webapp/WEB-INF/views/shared/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/shared/sidebar.jsp=UTF-8
+encoding/<project>=UTF-8
